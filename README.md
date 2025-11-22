@@ -1,3 +1,3 @@
 ## Hello! 👋
 
-![custom gif](https://drive.google.com/file/d/1kZIgjFzfc0aNZdfpOXM4rYHXhXwSS_Bc/view)
+![custom gif](https://github.com/aeg-tech/aeg-tech/blob/main/aeg-tech%20(Custom%20GIF).gif)
